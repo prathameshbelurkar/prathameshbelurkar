@@ -4,5 +4,5 @@
 
 - 🔭 I’m currently Student of CSE from Savitribai Phule Pune University.
 - 🌱 I’m currently learning ...
-- 😁 Like to playing Games.
+- ❤ L.A.B Enthusiast.
 - My Repositories 👇
