@@ -14,4 +14,4 @@
 
 ![Developer](https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif)
 
-[![Prathamesh's github stats](https://github-readme-stats.vercel.app/api?username=prathameshbelurkar)](https://github.com/prathameshbelurkar/github-readme-stats)
+ 
