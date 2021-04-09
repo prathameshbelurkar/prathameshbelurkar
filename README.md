@@ -7,4 +7,6 @@
 - 😍 L.A.B Enthusiast ❤
 > - Email: prathamesh.belurkar@outlook.com
 > - My Repositories 👇
+> 
+[Twitter](www.twitter.com/the_pbx_) | [LinkedIn](https://in.linkedin.com/in/prathameshbelurkar)
 
