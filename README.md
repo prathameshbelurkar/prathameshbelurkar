@@ -12,5 +12,5 @@
 > 
 [Twitter](https://twitter.com/the_pbx_) | [LinkedIn](https://in.linkedin.com/in/prathameshbelurkar)
 
-![Developer](https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif)
+![Developer](https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif)
 
