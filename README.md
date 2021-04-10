@@ -13,8 +13,6 @@ I'm Prathamesh Belurkar a Programmer,  🔭 I’m currently Student of CSE from 
 > 
 [Twitter](https://twitter.com/the_pbx_) | [LinkedIn](https://in.linkedin.com/in/prathameshbelurkar)
 
-[![Twitter Badge](https://img.shields.io/badge/-@the_pbx_-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/the_pbx_)](https://twitter.com/the_pbx_) [![Linkedin Badge](https://img.shields.io/badge/-prathameshbelurkar?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathameshbelurkar) [![Mail Badge](https://img.shields.io/badge/-Prathamesh Belurkar-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:prathameshb1236@gmail.com)
-
 ![Developer](https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif)
 
  
