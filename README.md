@@ -13,7 +13,7 @@ I'm Prathamesh Belurkar a Programmer,  🔭 I’m currently Student of CSE from 
 > 
 [Twitter](https://twitter.com/the_pbx_) | [LinkedIn](https://in.linkedin.com/in/prathameshbelurkar)
 
-[](https://img.shields.io/twitter/follow/the_pbx_?style=social)
+![](https://img.shields.io/twitter/follow/the_pbx_?style=social)
 
 ![Developer](https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif)
 
