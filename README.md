@@ -46,7 +46,8 @@
 [Stack Overflow](https://stackoverflow.com/story/prathamesh_belurkar) | [Quora](https://quora.com/profile/Prathamesh-Belurkar)
 
 
-[![Prathamesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=prathameshbelurkar)](https://github.com/prathameshbelurkar/github-readme-stats)
+![Prathamesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=prathameshbelurkar&theme=dark&show_icons=true)
+
 
  
 > - My Repositories 👇
