@@ -34,8 +34,9 @@
 
 ![Developer](https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif)
 
-#### SOCIAL
+#### SOCIAL 
+<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> <img alt="Twitter" src="https://img.shields.io/badge/<@the_pbx_>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/> <img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /> <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> 
 
-[Twitter](https://twitter.com/the_pbx_) | [LinkedIn](https://in.linkedin.com/in/prathameshbelurkar)
+[Twitter](https://twitter.com/the_pbx_) | [LinkedIn](https://in.linkedin.com/in/prathameshbelurkar) | [Stack Overflow](https://stackoverflow.com/story/prathamesh_belurkar) | [Quora](https://quora.com/profile/Prathamesh-Belurkar)
  
 > - My Repositories 👇
