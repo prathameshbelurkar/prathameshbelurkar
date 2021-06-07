@@ -35,9 +35,9 @@
 ![Developer](https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif)
 
 #### SOCIAL 
-<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> <img alt="Twitter" src="https://img.shields.io/badge/<@the_pbx_>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/> <img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /> <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> 
+<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> <img alt="Twitter" src="https://img.shields.io/badge/@the_pbx_-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/> <img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /> <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> 
 
-[Gmail](prathameshb1236@gmail.com) | [Outlook](prathamesh.belurkar@outlook.com) | [Twitter](https://twitter.com/the_pbx_) | [LinkedIn](https://in.linkedin.com/in/prathameshbelurkar) |
+[Gmail](prathameshb1236@gmail.com) | [Outlook](prathamesh.belurkar@outlook.com) | [Twitter](https://twitter.com/the_pbx_) | [LinkedIn](https://in.linkedin.com/in/prathameshbelurkar) 
 
 #### CONTRIBUTIONS
 <img alt="Quora" src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white"/> <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/> <img alt="Stack Exchange" src="https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange&logoColor=white"/> <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
