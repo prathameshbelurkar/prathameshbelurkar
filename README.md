@@ -39,7 +39,7 @@
 
 [Gmail](prathameshb1236@gmail.com) | [Outlook](prathamesh.belurkar@outlook.com) | [Twitter](https://twitter.com/the_pbx_) | [LinkedIn](https://in.linkedin.com/in/prathameshbelurkar) 
 
-#### CONTRIBUTIONS
+#### CONTRIBUTIONS & CP
 <img alt="Quora" src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white"/> <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/> <img alt="Stack Exchange" src="https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange&logoColor=white"/> <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
 
 
