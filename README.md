@@ -1,6 +1,6 @@
 
 ### Hey there, This is Prathamesh <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
-  ![Logo](dragster.jpg)
+  ![](https://media-exp1.licdn.com/dms/image/C5616AQGFZXV_tpS90A/profile-displaybackgroundimage-shrink_200_800/0/1622376439148?e=1628121600&v=beta&t=gc_VdqRGi4_Q19smgZI61E0H9OY0-fOGL0ZasSkO-aY)
 
 - 🔭 I’m currently Student of CSE from Savitribai Phule Pune University.
 - 🌱 I’m currently learning ... Java, JavaScript
