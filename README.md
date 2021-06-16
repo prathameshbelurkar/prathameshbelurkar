@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently Student of CSE from Savitribai Phule Pune University.
 - 🌱 I’m currently learning ... Java, JavaScript
-- 🏫 I'm looking to collaborate on ... React.js
+- 🏫 I'm looking to collaborate on ... ML Algorithms
 - ✉ Ask me About ... Anything
 - 📫: Reach me out! [Profile](https://prathameshbelurkar.github.io/Project_)
 - 😃 Pronouns: ... He/Him
