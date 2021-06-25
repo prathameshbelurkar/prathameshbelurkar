@@ -49,6 +49,6 @@
 
 ![Prathamesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=prathameshbelurkar&theme=dark&show_icons=true)
 
-<img src=https://komarev.com/ghpvc/?username = GitHub_Username/>
+<img src=https://komarev.com/ghpvc/?prathamesbelurkar = Prathamesb_Belurkar/>
  
 > - My Repositories 👇
