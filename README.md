@@ -33,6 +33,7 @@
 ## DESIGN
 <img alt="Adobe" src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white"/>   <img alt="Adobe Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>   
 
+## ⚡ Coders Formulae
 ![Developer](https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif)
 
 #### SOCIAL 
